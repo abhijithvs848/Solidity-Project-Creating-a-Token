@@ -33,7 +33,7 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 
 ## Author
 @abhijithvs
-Twitter - https://twitter.com/iamtadashibitch
+
 
 
 ## License
